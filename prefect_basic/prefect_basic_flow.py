@@ -17,7 +17,7 @@ def say_hello():
 
 
 @flow(name = "Prefect 2.0 Flow")
-def marvin_flow():
+def jason_flow():
 	say_hello()
 
 
