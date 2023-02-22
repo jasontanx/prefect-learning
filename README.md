@@ -4,6 +4,7 @@ No | Date | Update
 --- | --- | --- 
 1 | 19/02/2023 | Update Prefect basic folder - Flow and task concept
 2 | 20/02/2023 | Update Prefect finance sample folder - Basic pipeline creation
+3 | 22/02/2023 | Update Prefect Nike sample folder - Scheduling
 
 
 **Additional Information**
