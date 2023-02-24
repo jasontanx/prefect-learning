@@ -35,6 +35,6 @@ def bigquery_query_flow(
     # result.to_dataframe()
     df = pd.DataFrame(result)
     print(df)
-    df.to_csv('sample1.csv')
+    df.to_csv('sample_output.csv')
 
 bigquery_query_flow()
