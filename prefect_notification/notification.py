@@ -1,8 +1,12 @@
 '''
-reference:
+
+Author: Jason
+Thene: Webhook + Slack notification demo
+
+Reference:
+
 https://www.youtube.com/watch?v=PC1PgBB438Y 
 https://api.slack.com/messaging/webhooks 
-
 
 '''
 
