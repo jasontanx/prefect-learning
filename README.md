@@ -9,7 +9,6 @@ No | Date | Update
 5 | 24/02/2023 | Update Prefect Slack notification folder - Prefect 2.0 + Slack Notification via webhook
 6 | 25/02/2023 | Update Prefect Postgres data ingestion folder - Prefect 2.0 + ETL + Postgres SQL
 
-prefect_pg_data_ingest
 
 **Additional Information**
 
